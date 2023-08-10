@@ -1,0 +1,578 @@
+[INFO] Game Initializing...
+[INFO] Loaded Resource<image>: resources/images/icon.png
+[INFO] Loaded window icon from: icon.png
+[INFO] There are total 16 supported mouse buttons
+[INFO] Allegro5 initialized
+[INFO] Game begin
+[INFO] Loaded Resource<image>: resources/images/start_scene/out.png scaled to 400x100
+[INFO] Loaded Resource<image>: resources/images/start_scene/out.png
+[INFO] Loaded Resource<image>: resources/images/start_scene/in.png
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 48
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 108
+[INFO] Game initialized
+[INFO] Game start event loop
+[INFO] Loaded Resource<image>: resources/images/play/sand.png scaled to 336x896
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 30
+[INFO] Loaded Resource<image>: resources/images/play/dirt.png scaled to 75x50
+[INFO] Loaded Resource<image>: resources/images/play/dirt.png
+[INFO] Loaded Resource<image>: resources/images/play/floor.png
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 52
+[INFO] Loaded Resource<image>: resources/images/play/nothing.png scaled to 175x300
+[INFO] Loaded Resource<image>: resources/images/play/nothing.png
+[INFO] Loaded Resource<image>: resources/images/play/intro1.png
+[INFO] Loaded Resource<image>: resources/images/play/warrior.png scaled to 175x175
+[INFO] Loaded Resource<image>: resources/images/play/warrior.png
+[INFO] Loaded Resource<image>: resources/images/play/warrior-0.png
+[INFO] Loaded Resource<image>: resources/images/play/intro2.png
+[INFO] Loaded Resource<image>: resources/images/play/bombs.png scaled to 175x175
+[INFO] Loaded Resource<image>: resources/images/play/bombs.png
+[INFO] Loaded Resource<image>: resources/images/play/bombs-1.png
+[INFO] Loaded Resource<image>: resources/images/play/intro3.png
+[INFO] Loaded Resource<image>: resources/images/play/Pika.png scaled to 175x175
+[INFO] Loaded Resource<image>: resources/images/play/Pika.png
+[INFO] Loaded Resource<image>: resources/images/play/Pika-2.png
+[INFO] Loaded Resource<image>: resources/images/play/intro4.png
+[INFO] Loaded Resource<image>: resources/images/play/sion.png scaled to 175x175
+[INFO] Loaded Resource<image>: resources/images/play/sion.png
+[INFO] Loaded Resource<image>: resources/images/play/sion-3.png
+[INFO] Loaded Resource<image>: resources/images/play/intro5.png
+[INFO] Loaded Resource<image>: resources/images/play/doge_tank.png scaled to 175x175
+[INFO] Loaded Resource<image>: resources/images/play/doge_tank.png
+[INFO] Loaded Resource<image>: resources/images/play/doge_tank-4.png
+[INFO] Loaded Resource<image>: resources/images/play/intro6.png
+[INFO] Loaded Resource<image>: resources/images/play/priest.png scaled to 175x175
+[INFO] Loaded Resource<image>: resources/images/play/priest.png
+[INFO] Loaded Resource<image>: resources/images/play/priest-5.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/dirt.png scaled to 190x80
+[INFO] Loaded Resource<image>: resources/images/stage-select/dirt.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/floor.png
+[INFO] Loaded Resource<image>: resources/images/play/dirt.png scaled to 190x80
+[INFO] Loaded Resource<audio>: resources/audios/select.ogg
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Loaded Resource<image>: resources/images/play/deep-pink.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/wall.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/cannon.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/wizard.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/fat_cannon.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/multi_turrent.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/mines.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/sand.png scaled to 1536x128
+[INFO] Loaded Resource<image>: resources/images/play/warrior.png scaled to 80x80
+[INFO] Loaded Resource<image>: resources/images/play/floor.png scaled to 90x100
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 20
+[INFO] Loaded Resource<image>: resources/images/play/bombs.png scaled to 80x80
+[INFO] Loaded Resource<image>: resources/images/play/Pika-2.png scaled to 80x80
+[INFO] Loaded Resource<image>: resources/images/play/sion.png scaled to 80x80
+[INFO] Loaded Resource<image>: resources/images/play/doge_tank.png scaled to 80x80
+[INFO] Loaded Resource<image>: resources/images/play/priest.png scaled to 80x80
+[INFO] Loaded Resource<image>: resources/images/play/ice.png scaled to 80x80
+[INFO] Loaded Resource<image>: resources/images/play/target.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/frozen7.png scaled to 64x64
+[INFO] Loaded Resource<audio>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Loaded Resource<image>: resources/images/lose/benjamin-happy.png
+[INFO] Loaded Resource<audio>: resources/audios/play.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<font>: resources/fonts/ARCADE.ttf with size 50
+[INFO] Loaded Resource<image>: resources/images/play/Pika-2.png scaled to 64x64
+[INFO] Loaded Resource<audio>: resources/audios/PikachuSound.wav
+[INFO] Loaded Resource<image>: resources/images/play/bullet-5.png scaled to 64x64
+[INFO] Loaded Resource<audio>: resources/audios/gun.wav
+[INFO] Loaded Resource<image>: resources/images/play/bullet-6.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/bullet-4.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/bullet-9.png scaled to 64x64
+[INFO] stopped audio (sample)
+[INFO] Loaded Resource<image>: resources/images/win/dirt.png scaled to 400x100
+[INFO] Loaded Resource<image>: resources/images/win/dirt.png
+[INFO] Loaded Resource<image>: resources/images/win/floor.png
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/doge_tank.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/ice_ball.png scaled to 64x64
+[INFO] Loaded Resource<audio>: resources/audios/wizard_shoot.wav
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect1.png scaled to 150x150
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect1.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect2.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect3.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect4.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect5.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect6.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect7.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect8.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect9.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect10.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect11.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect12.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect13.png
+[INFO] Loaded Resource<image>: resources/images/play/wizard_effect14.png
+[INFO] Loaded Resource<audio>: resources/audios/wizard_explode.wav
+[INFO] Loaded Resource<image>: resources/images/play/cold.png scaled to 128x128
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (1).png scaled to 300x300
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (1).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (2).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (3).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (4).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (5).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (6).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (7).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (8).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (9).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (10).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (11).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (12).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (13).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (14).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (15).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (16).png
+[INFO] Loaded Resource<image>: resources/images/play/smoke/smoke (17).png
+[INFO] Loaded Resource<image>: resources/images/play/doge_tank-4.png scaled to 200x200
+[INFO] Loaded Resource<image>: resources/images/play/missile.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/explosion-6.png scaled to 100x100
+[INFO] Loaded Resource<image>: resources/images/play/explosion-6.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-7.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-8.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-9.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-10.png
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/ice.png scaled to 64x64
+[INFO] Loaded Resource<audio>: resources/audios/ice_explosion.wav
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (1).png scaled to 72x72
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (1).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (2).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (3).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (4).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (5).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (6).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (7).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (8).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (9).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (10).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (11).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_melt (12).png
+[INFO] Loaded Resource<image>: resources/images/play/ice_explode1.png scaled to 300x300
+[INFO] Loaded Resource<image>: resources/images/play/ice_explode1.png
+[INFO] Loaded Resource<image>: resources/images/play/ice_explode2.png
+[INFO] Loaded Resource<image>: resources/images/play/ice_explode3.png
+[INFO] Loaded Resource<image>: resources/images/play/ice_explode4.png
+[INFO] Loaded Resource<image>: resources/images/play/ice_explode5.png
+[INFO] Loaded Resource<image>: resources/images/play/ice_explode6.png
+[INFO] Loaded Resource<audio>: resources/audios/explosion.wav
+[INFO] Loaded Resource<image>: resources/images/play/Rasengan.png scaled to 64x64
+[INFO] Loaded Resource<audio>: resources/audios/missile.wav
+[INFO] Loaded Resource<image>: resources/images/play/thunder-1.png scaled to 100x100
+[INFO] Loaded Resource<audio>: resources/audios/ElectricitySound.wav
+[INFO] Loaded Resource<image>: resources/images/play/thunder-1.png
+[INFO] Loaded Resource<image>: resources/images/play/thunder-2.png
+[INFO] Loaded Resource<image>: resources/images/play/thunder-3.png
+[INFO] Loaded Resource<image>: resources/images/play/thunder-4.png
+[INFO] Loaded Resource<image>: resources/images/play/thunder-5.png
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion1.png scaled to 300x300
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion1.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion2.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion3.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion4.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion5.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion6.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion7.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion8.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion9.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion10.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion11.png
+[INFO] Loaded Resource<image>: resources/images/play/mines_explosion12.png
+[INFO] Loaded Resource<image>: resources/images/play/PikaDizzy-1.png scaled to 70x70
+[INFO] Loaded Resource<image>: resources/images/play/PikaDizzy-1.png
+[INFO] Loaded Resource<image>: resources/images/play/PikaDizzy-2.png
+[INFO] Loaded Resource<image>: resources/images/play/PikaDizzy-3.png
+[INFO] Loaded Resource<image>: resources/images/play/PikaDizzy-4.png
+[INFO] Loaded Resource<image>: resources/images/play/PikaDizzy-5.png
+[INFO] Loaded Resource<audio>: resources/audios/PikaDieSound.wav
+[INFO] Loaded Resource<image>: resources/images/play/explosion-1.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/explosion-1.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-2.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-3.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-4.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-5.png
+[INFO] Loaded Resource<image>: resources/images/play/dirty-1.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/dirty-2.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/dirty-3.png scaled to 64x64
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/priest.png scaled to 100x100
+[INFO] Loaded Resource<image>: resources/images/play/star(1).png scaled to 100x100
+[INFO] Loaded Resource<image>: resources/images/play/star(1).png
+[INFO] Loaded Resource<image>: resources/images/play/star(2).png
+[INFO] Loaded Resource<image>: resources/images/play/star(3).png
+[INFO] Loaded Resource<image>: resources/images/play/star(4).png
+[INFO] Loaded Resource<image>: resources/images/play/heal(1).png scaled to 100x100
+[INFO] Loaded Resource<image>: resources/images/play/heal(1).png
+[INFO] Loaded Resource<image>: resources/images/play/heal(2).png
+[INFO] Loaded Resource<image>: resources/images/play/heal(3).png
+[INFO] Loaded Resource<image>: resources/images/play/heal(4).png
+[INFO] Loaded Resource<image>: resources/images/play/heal(5).png
+[INFO] Loaded Resource<image>: resources/images/play/heal(6).png
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/bombs.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/warrior.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/target-invalid.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/sword.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/shoot-1.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/shoot-1.png
+[INFO] Loaded Resource<image>: resources/images/play/shoot-2.png
+[INFO] Loaded Resource<image>: resources/images/play/shoot-3.png
+[INFO] Loaded Resource<image>: resources/images/play/shoot-4.png
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/sion.png scaled to 150x150
+[INFO] Loaded Resource<image>: resources/images/play/SionHurt.png scaled to 200x200
+[INFO] Loaded Resource<image>: resources/images/play/SionHurt.png
+[INFO] Loaded Resource<image>: resources/images/play/fireball.png scaled to 64x64
+[INFO] Loaded Resource<audio>: resources/audios/sion_attack_effect.wav
+[INFO] Loaded Resource<image>: resources/images/play/fire_explosion_effect1.png scaled to 100x100
+[INFO] Loaded Resource<image>: resources/images/play/fire_explosion_effect1.png
+[INFO] Loaded Resource<image>: resources/images/play/fire_explosion_effect2.png
+[INFO] Loaded Resource<image>: resources/images/play/fire_explosion_effect3.png
+[INFO] Loaded Resource<image>: resources/images/play/fire_explosion_effect4.png
+[INFO] Loaded Resource<audio>: resources/audios/Noxus.wav
+[INFO] Loaded Resource<image>: resources/images/play/sion_death.png scaled to 150x150
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action1.png scaled to 120x120
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action11.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action12.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action13.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action14.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action15.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action16.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action17.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action18.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action19.png
+[INFO] Loaded Resource<image>: resources/images/play/sion_death_action20.png
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Created<sample_instance>: resources/audios/select.ogg
+[INFO] Changed to army-select scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Created<sample_instance>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: resources/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Changed to start-scene scene
+[INFO] Game Terminating...
+[INFO] Game terminated
+[INFO] Game end
+[INFO] Destroyed Resource<image>: icon.png
+[INFO] Destroyed Resource<image>: start_scene/out.png?400x100
+[INFO] Destroyed Resource<image>: play/dirt.png?75x50
+[INFO] Destroyed Resource<image>: play/intro3.png
+[INFO] Destroyed Resource<image>: start_scene/out.png
+[INFO] Destroyed Resource<image>: play/dirt.png?190x80
+[INFO] Destroyed Resource<image>: play/sand.png?336x896
+[INFO] Destroyed Resource<image>: start_scene/in.png
+[INFO] Destroyed Resource<image>: stage-select/floor.png
+[INFO] Destroyed Resource<image>: play/sion.png
+[INFO] Destroyed Resource<image>: play/dirt.png
+[INFO] Destroyed Resource<image>: play/floor.png
+[INFO] Destroyed Resource<image>: play/doge_tank.png
+[INFO] Destroyed Resource<image>: play/star(3).png
+[INFO] Destroyed Resource<image>: play/nothing.png?175x300
+[INFO] Destroyed Resource<image>: play/doge_tank.png?80x80
+[INFO] Destroyed Resource<image>: play/smoke/smoke (9).png
+[INFO] Destroyed Resource<image>: play/nothing.png
+[INFO] Destroyed Resource<image>: play/doge_tank.png?64x64
+[INFO] Destroyed Resource<image>: play/intro1.png
+[INFO] Destroyed Resource<image>: play/warrior.png?175x175
+[INFO] Destroyed Resource<image>: play/ice_melt (3).png
+[INFO] Destroyed Resource<image>: play/warrior.png
+[INFO] Destroyed Resource<image>: play/doge_tank-4.png
+[INFO] Destroyed Resource<image>: play/warrior-0.png
+[INFO] Destroyed Resource<image>: play/intro2.png
+[INFO] Destroyed Resource<image>: play/sion.png?80x80
+[INFO] Destroyed Resource<image>: play/bombs.png?175x175
+[INFO] Destroyed Resource<image>: play/explosion-5.png
+[INFO] Destroyed Resource<image>: play/warrior.png?80x80
+[INFO] Destroyed Resource<image>: play/bullet-5.png?64x64
+[INFO] Destroyed Resource<image>: play/bombs.png
+[INFO] Destroyed Resource<image>: play/heal(2).png
+[INFO] Destroyed Resource<image>: play/bombs-1.png
+[INFO] Destroyed Resource<image>: play/Pika.png?175x175
+[INFO] Destroyed Resource<image>: play/bullet-6.png?64x64
+[INFO] Destroyed Resource<image>: play/Pika.png
+[INFO] Destroyed Resource<image>: play/Pika-2.png
+[INFO] Destroyed Resource<image>: play/sword.png?64x64
+[INFO] Destroyed Resource<image>: play/target.png?64x64
+[INFO] Destroyed Resource<image>: play/intro4.png
+[INFO] Destroyed Resource<image>: play/deep-pink.png?64x64
+[INFO] Destroyed Resource<image>: lose/benjamin-happy.png
+[INFO] Destroyed Resource<image>: play/ice_explode3.png
+[INFO] Destroyed Resource<image>: play/sion.png?175x175
+[INFO] Destroyed Resource<image>: play/star(1).png?100x100
+[INFO] Destroyed Resource<image>: play/explosion-1.png
+[INFO] Destroyed Resource<image>: play/sion-3.png
+[INFO] Destroyed Resource<image>: play/intro5.png
+[INFO] Destroyed Resource<image>: play/doge_tank.png?175x175
+[INFO] Destroyed Resource<image>: play/intro6.png
+[INFO] Destroyed Resource<image>: play/doge_tank-4.png?200x200
+[INFO] Destroyed Resource<image>: play/priest.png?175x175
+[INFO] Destroyed Resource<image>: play/priest.png
+[INFO] Destroyed Resource<image>: play/priest-5.png
+[INFO] Destroyed Resource<image>: play/star(2).png
+[INFO] Destroyed Resource<image>: play/bullet-9.png?64x64
+[INFO] Destroyed Resource<image>: stage-select/dirt.png?190x80
+[INFO] Destroyed Resource<image>: stage-select/dirt.png
+[INFO] Destroyed Resource<image>: play/ice.png?80x80
+[INFO] Destroyed Resource<image>: play/ice_explode4.png
+[INFO] Destroyed Resource<image>: play/Pika-2.png?80x80
+[INFO] Destroyed Resource<image>: play/wall.png?64x64
+[INFO] Destroyed Resource<image>: play/mines_explosion2.png
+[INFO] Destroyed Resource<image>: play/cannon.png?64x64
+[INFO] Destroyed Resource<image>: play/wizard.png?64x64
+[INFO] Destroyed Resource<image>: play/fat_cannon.png?64x64
+[INFO] Destroyed Resource<image>: play/multi_turrent.png?64x64
+[INFO] Destroyed Resource<image>: play/missile.png?64x64
+[INFO] Destroyed Resource<image>: play/mines.png?64x64
+[INFO] Destroyed Resource<image>: play/sand.png?1536x128
+[INFO] Destroyed Resource<image>: play/floor.png?90x100
+[INFO] Destroyed Resource<image>: play/sion_death_action14.png
+[INFO] Destroyed Resource<image>: play/PikaDizzy-4.png
+[INFO] Destroyed Resource<image>: play/bombs.png?80x80
+[INFO] Destroyed Resource<image>: play/target-invalid.png?64x64
+[INFO] Destroyed Resource<image>: play/frozen7.png?64x64
+[INFO] Destroyed Resource<image>: play/fire_explosion_effect4.png
+[INFO] Destroyed Resource<image>: play/priest.png?80x80
+[INFO] Destroyed Resource<image>: win/dirt.png?400x100
+[INFO] Destroyed Resource<image>: play/Pika-2.png?64x64
+[INFO] Destroyed Resource<image>: play/bullet-4.png?64x64
+[INFO] Destroyed Resource<image>: win/dirt.png
+[INFO] Destroyed Resource<image>: win/floor.png
+[INFO] Destroyed Resource<image>: play/ice_ball.png?64x64
+[INFO] Destroyed Resource<image>: play/wizard_effect1.png?150x150
+[INFO] Destroyed Resource<image>: play/wizard_effect1.png
+[INFO] Destroyed Resource<image>: play/wizard_effect2.png
+[INFO] Destroyed Resource<image>: play/wizard_effect3.png
+[INFO] Destroyed Resource<image>: play/wizard_effect4.png
+[INFO] Destroyed Resource<image>: play/wizard_effect5.png
+[INFO] Destroyed Resource<image>: play/wizard_effect6.png
+[INFO] Destroyed Resource<image>: play/wizard_effect7.png
+[INFO] Destroyed Resource<image>: play/wizard_effect8.png
+[INFO] Destroyed Resource<image>: play/wizard_effect9.png
+[INFO] Destroyed Resource<image>: play/wizard_effect10.png
+[INFO] Destroyed Resource<image>: play/wizard_effect11.png
+[INFO] Destroyed Resource<image>: play/wizard_effect12.png
+[INFO] Destroyed Resource<image>: play/wizard_effect13.png
+[INFO] Destroyed Resource<image>: play/wizard_effect14.png
+[INFO] Destroyed Resource<image>: play/shoot-1.png
+[INFO] Destroyed Resource<image>: play/cold.png?128x128
+[INFO] Destroyed Resource<image>: play/smoke/smoke (1).png?300x300
+[INFO] Destroyed Resource<image>: play/smoke/smoke (1).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (2).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (3).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (4).png
+[INFO] Destroyed Resource<image>: play/sion_death_action11.png
+[INFO] Destroyed Resource<image>: play/PikaDizzy-1.png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (5).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (6).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (7).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (8).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (10).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (11).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (12).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (13).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (14).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (15).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (16).png
+[INFO] Destroyed Resource<image>: play/smoke/smoke (17).png
+[INFO] Destroyed Resource<image>: play/explosion-6.png?100x100
+[INFO] Destroyed Resource<image>: play/explosion-6.png
+[INFO] Destroyed Resource<image>: play/explosion-7.png
+[INFO] Destroyed Resource<image>: play/explosion-8.png
+[INFO] Destroyed Resource<image>: play/explosion-9.png
+[INFO] Destroyed Resource<image>: play/explosion-10.png
+[INFO] Destroyed Resource<image>: play/ice.png?64x64
+[INFO] Destroyed Resource<image>: play/ice_melt (1).png?72x72
+[INFO] Destroyed Resource<image>: play/ice_melt (1).png
+[INFO] Destroyed Resource<image>: play/ice_melt (2).png
+[INFO] Destroyed Resource<image>: play/ice_melt (4).png
+[INFO] Destroyed Resource<image>: play/ice_melt (5).png
+[INFO] Destroyed Resource<image>: play/ice_melt (6).png
+[INFO] Destroyed Resource<image>: play/ice_melt (7).png
+[INFO] Destroyed Resource<image>: play/ice_melt (8).png
+[INFO] Destroyed Resource<image>: play/ice_melt (9).png
+[INFO] Destroyed Resource<image>: play/ice_melt (10).png
+[INFO] Destroyed Resource<image>: play/ice_melt (11).png
+[INFO] Destroyed Resource<image>: play/ice_melt (12).png
+[INFO] Destroyed Resource<image>: play/ice_explode1.png?300x300
+[INFO] Destroyed Resource<image>: play/ice_explode1.png
+[INFO] Destroyed Resource<image>: play/sion_death_action20.png
+[INFO] Destroyed Resource<image>: play/ice_explode2.png
+[INFO] Destroyed Resource<image>: play/ice_explode5.png
+[INFO] Destroyed Resource<image>: play/ice_explode6.png
+[INFO] Destroyed Resource<image>: play/Rasengan.png?64x64
+[INFO] Destroyed Resource<image>: play/thunder-1.png?100x100
+[INFO] Destroyed Resource<image>: play/thunder-1.png
+[INFO] Destroyed Resource<image>: play/thunder-2.png
+[INFO] Destroyed Resource<image>: play/thunder-3.png
+[INFO] Destroyed Resource<image>: play/thunder-4.png
+[INFO] Destroyed Resource<image>: play/thunder-5.png
+[INFO] Destroyed Resource<image>: play/mines_explosion1.png?300x300
+[INFO] Destroyed Resource<image>: play/heal(6).png
+[INFO] Destroyed Resource<image>: play/mines_explosion1.png
+[INFO] Destroyed Resource<image>: play/mines_explosion3.png
+[INFO] Destroyed Resource<image>: play/mines_explosion4.png
+[INFO] Destroyed Resource<image>: play/star(4).png
+[INFO] Destroyed Resource<image>: play/mines_explosion5.png
+[INFO] Destroyed Resource<image>: play/mines_explosion6.png
+[INFO] Destroyed Resource<image>: play/mines_explosion7.png
+[INFO] Destroyed Resource<image>: play/mines_explosion8.png
+[INFO] Destroyed Resource<image>: play/mines_explosion9.png
+[INFO] Destroyed Resource<image>: play/mines_explosion10.png
+[INFO] Destroyed Resource<image>: play/mines_explosion11.png
+[INFO] Destroyed Resource<image>: play/mines_explosion12.png
+[INFO] Destroyed Resource<image>: play/PikaDizzy-1.png?70x70
+[INFO] Destroyed Resource<image>: play/sion_death_action12.png
+[INFO] Destroyed Resource<image>: play/PikaDizzy-2.png
+[INFO] Destroyed Resource<image>: play/sion_death_action13.png
+[INFO] Destroyed Resource<image>: play/PikaDizzy-3.png
+[INFO] Destroyed Resource<image>: play/sion_death_action15.png
+[INFO] Destroyed Resource<image>: play/PikaDizzy-5.png
+[INFO] Destroyed Resource<image>: play/shoot-4.png
+[INFO] Destroyed Resource<image>: play/explosion-1.png?64x64
+[INFO] Destroyed Resource<image>: play/explosion-2.png
+[INFO] Destroyed Resource<image>: play/explosion-3.png
+[INFO] Destroyed Resource<image>: play/explosion-4.png
+[INFO] Destroyed Resource<image>: play/dirty-1.png?64x64
+[INFO] Destroyed Resource<image>: play/dirty-2.png?64x64
+[INFO] Destroyed Resource<image>: play/dirty-3.png?64x64
+[INFO] Destroyed Resource<image>: play/priest.png?100x100
+[INFO] Destroyed Resource<image>: play/star(1).png
+[INFO] Destroyed Resource<image>: play/heal(1).png?100x100
+[INFO] Destroyed Resource<image>: play/heal(1).png
+[INFO] Destroyed Resource<image>: play/heal(3).png
+[INFO] Destroyed Resource<image>: play/heal(4).png
+[INFO] Destroyed Resource<image>: play/heal(5).png
+[INFO] Destroyed Resource<image>: play/bombs.png?64x64
+[INFO] Destroyed Resource<image>: play/warrior.png?64x64
+[INFO] Destroyed Resource<image>: play/shoot-1.png?64x64
+[INFO] Destroyed Resource<image>: play/shoot-2.png
+[INFO] Destroyed Resource<image>: play/shoot-3.png
+[INFO] Destroyed Resource<image>: play/sion.png?150x150
+[INFO] Destroyed Resource<image>: play/sion_death_action17.png
+[INFO] Destroyed Resource<image>: play/SionHurt.png?200x200
+[INFO] Destroyed Resource<image>: play/SionHurt.png
+[INFO] Destroyed Resource<image>: play/fireball.png?64x64
+[INFO] Destroyed Resource<image>: play/fire_explosion_effect1.png?100x100
+[INFO] Destroyed Resource<image>: play/fire_explosion_effect1.png
+[INFO] Destroyed Resource<image>: play/fire_explosion_effect2.png
+[INFO] Destroyed Resource<image>: play/fire_explosion_effect3.png
+[INFO] Destroyed Resource<image>: play/sion_death.png?150x150
+[INFO] Destroyed Resource<image>: play/sion_death_action1.png?120x120
+[INFO] Destroyed Resource<image>: play/sion_death_action16.png
+[INFO] Destroyed Resource<image>: play/sion_death_action18.png
+[INFO] Destroyed Resource<image>: play/sion_death_action19.png
+[INFO] Destroyed Resource<font>: pirulen.ttf?48
+[INFO] Destroyed Resource<font>: pirulen.ttf?108
+[INFO] Destroyed Resource<font>: pirulen.ttf?52
+[INFO] Destroyed Resource<font>: pirulen.ttf?30
+[INFO] Destroyed Resource<font>: ARCADE.ttf?50
+[INFO] Destroyed<sample_instance>: select.ogg
+[INFO] Destroyed<sample_instance>: astronomia.ogg
+[INFO] Destroyed<sample_instance>: play.ogg
+[INFO] Destroyed Resource<audio>: select.ogg
+[INFO] Destroyed Resource<audio>: gun.wav
+[INFO] Destroyed Resource<audio>: astronomia.ogg
+[INFO] Destroyed Resource<audio>: play.ogg
+[INFO] Destroyed Resource<audio>: PikachuSound.wav
+[INFO] Destroyed Resource<audio>: wizard_shoot.wav
+[INFO] Destroyed Resource<audio>: ice_explosion.wav
+[INFO] Destroyed Resource<audio>: explosion.wav
+[INFO] Destroyed Resource<audio>: wizard_explode.wav
+[INFO] Destroyed Resource<audio>: missile.wav
+[INFO] Destroyed Resource<audio>: ElectricitySound.wav
+[INFO] Destroyed Resource<audio>: PikaDieSound.wav
+[INFO] Destroyed Resource<audio>: sion_attack_effect.wav
+[INFO] Destroyed Resource<audio>: Noxus.wav
